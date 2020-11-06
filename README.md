@@ -2,9 +2,9 @@
 
 - [Linear models case study](#linear-models-case-study)
   - [Topic Choices](#topic-choices)
-    - [Choice 1: Forecast HIV incidence in US counties)](#choice-1-forecast-hiv-incidence-in-us-counties)
+    - [Choice 1: Forecast HIV incidence in US counties](#choice-1-forecast-hiv-incidence-in-us-counties)
       - [Major challenges](#major-challenges)
-    - [Choice 2: Predict the sale price of heavy equipment at auction)](#choice-2-predict-the-sale-price-of-heavy-equipment-at-auction)
+    - [Choice 2: Predict the sale price of heavy equipment at auction](#choice-2-predict-the-sale-price-of-heavy-equipment-at-auction)
       - [Major challenges](#major-challenges-1)
   - [Deliverables](#deliverables)
 
