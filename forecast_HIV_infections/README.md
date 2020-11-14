@@ -1,12 +1,15 @@
 # Forecasting-HIV-Infections Case Study
-
+- [Forecasting-HIV-Infections Case Study](#forecasting-hiv-infections-case-study)
+  - [Case Study Goal](#case-study-goal)
+  - [Background](#background)
+  - [Data](#data)
+    - [Data merging](#data-merging)
+  - [Credit](#credit)
 ## Case Study Goal
-1)	To accurately model HIV incidences (new infections per 100,000) in US 
-counties by building a linear regression model that utilizes HIV infection data,
-census data, data on the opioid crisis, and data on sexual orientation.
+1)	To accurately model HIV `incidences` (new infections per 100,000) in US
+counties by building a linear regression model that utilizes HIV infection data, census data, data on the opioid crisis, and data on sexual orientation.
 
-2)	Identify features that are the most significant drivers of HIV infection 
-rates and learn how these drivers differ between different regions.
+2)	Identify features that are the most significant drivers of HIV infection rates and learn how these drivers differ between different regions.
 
 ## Background
 Due to the development of anti-retroviral therapies the HIV/AIDS epidemic is 
@@ -27,7 +30,9 @@ HIV and prevent outbreaks from occurring.  Accurate modeling will also identify
 risk factors for communities with high HIV infection rates and provide clues 
 as to how officials may better combat HIV in their respective communities.
 
-## Data Sources
+
+## Data
+
 
 The `./data` folder contains data from three publically available sources.  Groups should feel
 free to supplement this data if they wish.
