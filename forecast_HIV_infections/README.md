@@ -30,7 +30,9 @@ HIV and prevent outbreaks from occurring.  Accurate modeling will also identify
 risk factors for communities with high HIV infection rates and provide clues 
 as to how officials may better combat HIV in their respective communities.
 
+
 ## Data
+
 
 The `./data` folder contains data from three publically available sources.  Groups should feel
 free to supplement this data if they wish.
@@ -40,7 +42,7 @@ free to supplement this data if they wish.
 
 Data dictionaries that indicate what each column in the data means are included in the folder associated with each data set.
 
-### Data merging
+## Data merging  
 
 The `merge_data.ipynb` notebook reads and merges most of the data in the 
 `data` folder into one dataframe.  Read through and execute this notebook cell-by-cell to

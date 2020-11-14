@@ -95,8 +95,9 @@ is likely to come from*. If you weren't fitting a model, but were asked to use
 this data to predict a price what would you do? Can you combine the model with
 your intuitive instincts?  This is important because it can be done *without
 looking at the data*; thinking about the problem has no risk of overfitting.
-7. Start simply. Fit a basic model and make sure you're able to get the
-submission working then iterate to improve.
+7. Start simply. Fit a basic model and make sure you're able to get the submission 
+working then iterate to improve.
+
 8. Remember that you are evaluated on a loss function that is only sensitive to
 the *ratios* of predicted to actual values.  It's almost certainly too much of
 a task to implement an algorithm that minimizes this loss function directly in
@@ -116,3 +117,8 @@ are allowed.
 You may use other models or algorithms as supplements (for example, in feature
 engineering), but your final submissions must be losses from a linear type
 model.
+
+## Credit
+This case study is based on [Kaggle's Blue Book for Bulldozers](https://www.kaggle.com/c/bluebook-for-bulldozers) competition.  The best RMSLE was only 0.23 (obviously lower is better).  Note
+that if you were to simply guess the median auction price for all the pieces of equipment in
+the test set you would get an RMSLE of about 0.7.
